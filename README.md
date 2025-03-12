@@ -51,7 +51,7 @@ The analysis follows these key steps:
    - Gender (male professors receive higher ratings)
    - Language (non-English educated professors receive lower ratings)
    - Age (younger professors receive higher ratings)
-   - Class evaluation participation (higher participation correlates with higher ratings)
+   -    - Class evaluation participation (higher participation correlates with higher ratings)
    - Course credits (one-credit courses receive higher ratings)
    - Beauty ratings (more attractive professors receive higher ratings)
    - Photo color (black & white photos associate with higher ratings)
@@ -115,3 +115,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Thanks to the original researchers for making this dataset available
 - This analysis was completed as part of a statistical modeling course
+![171ec8eb-12a5-424f-a1fe-6836a962e640](https://github.com/user-attachments/assets/90279efc-40be-4322-8818-bdde70d146ec)
+![5a9faf87-d096-4c1e-bca0-a167c3d3444c](https://github.com/user-attachments/assets/47f070e9-a7fa-49fd-802c-0043856aa3e6)
+
+![d82bd09a-7df1-4bca-80d6-c0412f4e06d0](https://github.com/user-attachments/assets/0c808200-4661-4985-82c1-991d8e0d634e)
+![0d892ae0-3d22-46b4-9e96-15ed11034ea9](https://github.com/user-attachments/assets/25621bc3-55e8-4742-9b1a-1c1d31462328)
+
+![f8309830-2af1-438f-8c3b-1542d6ba72d4](https://github.com/user-attachments/assets/4b4b245d-6831-45ce-a37e-e69206efa2b8)
+![f74a2955-1d81-4aaf-91eb-f9abb08c31fc](https://github.com/user-attachments/assets/a78ae568-6d2b-4772-9c44-330127881035)
